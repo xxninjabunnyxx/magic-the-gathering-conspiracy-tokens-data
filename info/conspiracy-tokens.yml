@@ -1,0 +1,18 @@
+---
+object: set
+id: 48fa7ece-52b1-446b-9855-413ee4714185
+code: tcns
+name: Conspiracy Tokens
+uri: https://api.scryfall.com/sets/48fa7ece-52b1-446b-9855-413ee4714185
+scryfall_uri: https://scryfall.com/sets/tcns
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atcns&unique=prints
+released_at: '2014-06-06'
+set_type: token
+card_count: 9
+parent_set_code: cns
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: cns
+block: Conspiracy
+icon_svg_uri: https://svgs.scryfall.io/sets/cns.svg?1694404800
